@@ -1,5 +1,5 @@
-### Hi there 👋
+## Hi there 👋 Im Adriel
 
-## Im Adriel Monti D'Nardi, welcome to my github ! 🤓
+### Welcome to my github ! 🤓
 
-### thanks, and come back often
+#### thanks, and come back often
